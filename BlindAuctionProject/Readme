@@ -1,1 +1,32 @@
-Blind Auction Project
+# Blind Auction Project
+
+This is a simple Python project that simulates a blind auction. Participants can submit their bids without knowing the bids of others. At the end of the auction, the highest bidder wins.
+
+## Features
+
+- Accepts bids from multiple participants
+- Keeps bids confidential until the auction ends
+- Determines and displays the winner
+
+## Getting Started
+
+1. Clone the repository:
+    ```
+    git clone <repository-url>
+    ```
+2. Navigate to the project directory:
+    ```
+    cd BlindAuctionProject
+    ```
+3. Run the main Python script:
+    ```
+    python main.py
+    ```
+
+## Requirements
+
+- Python 3.x
+
+## Usage
+
+Follow the prompts in the terminal to enter participant names and their bids. The program will announce the winner after all bids are submitted.
