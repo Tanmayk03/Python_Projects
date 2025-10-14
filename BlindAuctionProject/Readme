@@ -27,6 +27,3 @@ This is a simple Python project that simulates a blind auction. Participants can
 
 - Python 3.x
 
-## Usage
-
-Follow the prompts in the terminal to enter participant names and their bids. The program will announce the winner after all bids are submitted.
